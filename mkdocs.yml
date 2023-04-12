@@ -1,9 +1,0 @@
-site_name: 姬器人说明
-site_description: 世界第一好用的姬器人
-site_url: 
-nav: 
-  - "index.md"
-  - "领养流程.md"
-  - "功能介绍.md"
-theme:
-  name: material
